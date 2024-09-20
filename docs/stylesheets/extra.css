@@ -7,29 +7,29 @@
 }
 
 :root, [data-md-color-scheme="default"] {
-  --color-primary: #87CEEB;  /* Changed to sky blue */
-  --color-accent: #87CEEB;   /* Changed to sky blue */
+  --color-primary: #146eb4;  /* Changed to #146eb4 */
+  --color-accent: #146eb4;   /* Changed to #146eb4 */
   --color-background: #f0f0f0;
   --color-text: #333333;
   --color-text-muted: #666666;
   --color-border: #e0e0e0;
   --color-code-background: #e8e8e8;
   --color-code-text: #333333;
-  --color-link: #8A2BE2;     /* Changed to violet */
-  --color-link-hover: #9370DB; /* Changed to light violet for hover */
+  --color-link: #8A2BE2;     /* Violet */
+  --color-link-hover: #9370DB; /* Light violet for hover */
 }
 
 [data-md-color-scheme="slate"] {
-  --color-primary: #87CEEB;  /* Changed to sky blue */
-  --color-accent: #87CEEB;   /* Changed to sky blue */
+  --color-primary: #146eb4;  /* Changed to #146eb4 */
+  --color-accent: #146eb4;   /* Changed to #146eb4 */
   --color-background: #121212;
   --color-text: #ffffff;
   --color-text-muted: #a0a0a0;
   --color-border: #2d2d2d;
   --color-code-background: #1e1e1e;
   --color-code-text: #e0e0e0;
-  --color-link: #9370DB;     /* Changed to light violet */
-  --color-link-hover: #BA55D3; /* Changed to medium violet for hover */
+  --color-link: #9370DB;     /* Light violet */
+  --color-link-hover: #BA55D3; /* Medium violet for hover */
 }
 
 /* Global Styles */
